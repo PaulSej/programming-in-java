@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.lab01.lst01_01.HelloEncapsulationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-22T20:15:19" hostname="LAPTOP-ENSPED7D" time="0.041">
+  <properties/>
+  <testcase name="getPropVal()" classname="agh.ii.prinjava.lab01.lst01_01.HelloEncapsulationTest" time="0.041"/>
+  <system-out><![CDATA[HelloEncapsulation.setUp
+HelloEncapsulation.tearDown
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
